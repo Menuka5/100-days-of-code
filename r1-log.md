@@ -5,6 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 ## Log
 
 ### R1D1 
-Completed Multithreading Course and Spring Boot course in Linked Learning.
+
+* Completed Multithreading Course and Spring Boot course in Linked Learning.
 
 ### R1D2
+
+* Completed Java Swing Course in Linkedin Learning
