@@ -18,4 +18,4 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 
 ### R1D4
 
-Today I continued the course **AI Accountability Essential Training** 
+* Today I continued the course **AI Accountability Essential Training** 
