@@ -23,3 +23,8 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 ### R1D5
 
 * Today I completed the **AI Accountability Essential Training** 
+
+### R1D6
+
+* As part of Linkedin learning Learning path I completed **AI The LinkedIn Way: A Conversation with Deepak Agarwal** and started course **Artificial Intelligence Foundations: Machine Learning**
+
