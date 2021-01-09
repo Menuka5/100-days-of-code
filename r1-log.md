@@ -28,3 +28,6 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 
 * As part of Linkedin learning Learning path I completed **AI The LinkedIn Way: A Conversation with Deepak Agarwal** and started course **Artificial Intelligence Foundations: Machine Learning**
 
+### R1D7
+
+* Today I completed the course **Artificial Intelligence Foundations: Machine Learning**
