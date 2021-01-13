@@ -39,3 +39,7 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 ### R1D9
 
 * Today I finished the course **Artificial Intelligence Foundations: Thinking Machines**
+
+### R1D10
+
+* Today I started course **Artificial Intelligence Foundations: Neural Networks**
