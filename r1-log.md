@@ -47,3 +47,8 @@ The log of my #100DaysOfCode challenge. Started on [01/01/2021].
 ### R1D11
 
 * Today I finished course **Artificial Intelligence Foundations: Neural Networks**
+
+### R1D7
+
+* Today I started the course **Cognitive Technologies: The Real Opportunities for Business**
+
